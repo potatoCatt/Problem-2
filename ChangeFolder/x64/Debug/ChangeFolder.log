@@ -1,0 +1,26 @@
+﻿  ChangeFolder.cpp
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(212,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(232,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(253,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(271,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(283,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xstring(2603,27): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(446): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\cat\Documents\тестовое\ChangeFolder\ChangeFolder\ChangeFolder.cpp(353): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  ChangeFolder.vcxproj -> C:\Users\cat\Documents\тестовое\ChangeFolder\x64\Debug\ChangeFolder.exe
